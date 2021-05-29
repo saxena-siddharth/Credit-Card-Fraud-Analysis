@@ -1,6 +1,4 @@
 
-# Credit-Card-Fraud-Detection
-
 
 Credit card fraud can be stated as unauthorized use of credit or a debit card, or similar kind of payment to fraudulently obtain money or property. 
 
