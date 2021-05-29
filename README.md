@@ -1,5 +1,5 @@
 
-# Credit Card Fruad Detection Analysis
+# Credit Card Fraud Detection Analysis
 
 Credit card fraud can be stated as unauthorized use of credit or a debit card, or similar kind of payment to fraudulently obtain money or property. 
 
