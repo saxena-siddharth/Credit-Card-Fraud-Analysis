@@ -26,4 +26,4 @@ Feature Scaling.
 Exploratory Data Analysis
 
 
-We then followed with XGBoost where we used both train-validation split and cross-validation to evaluate the model's effectiveness to predict class, wherein achieved AUC score 0.974 for validation set and 0.93 for the cross-validation set. We also performed random forest to test the accuracy of the train and test dataset.
+We then followed with XGBoost where we used both train-validation split and cross-validation to evaluate the model's effectiveness to predict class. We also performed random forest to test the accuracy of the train and test dataset.
